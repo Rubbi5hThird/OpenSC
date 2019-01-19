@@ -1,4 +1,5 @@
 # OpenSC documentation
+test
 
 Wiki is [available online](https://github.com/OpenSC/OpenSC/wiki)
 
